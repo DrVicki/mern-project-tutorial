@@ -872,9 +872,9 @@ Go back to the `client` directory and run the command:
 npm start
 ```
 
-This is what the landing page of the record component will look like after we added two records for “Richard” and “Billy” via the “Create Record” button.
+This is what the landing page of the record component will look like after we added records for “Vicki Bealman" via the “Create Record” button.
 
-![](https://webimages.mongodb.com/_com_assets/cms/kobwy5fsc8wohx9e8-sample-record-landing-page.png?auto=format%2Ccompress)
+![](https://github.com/DrVicki/mern-project-tutorial/blob/main/images/mongo-project.png)
 
 This is what the screen that lets you add an employee will look like.
 
