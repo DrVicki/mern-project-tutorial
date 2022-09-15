@@ -2,6 +2,8 @@
 
 This tutorial will show you how to build a full-stack MERN application;an employee database, with the most current tools available. Before you begin, make sure that you are familiar with Node.js and React.js basics and have Node and Create React App installed. You will also need access to the MongoDB Atlas database for this tutorial. The full code is available on this GitHub repo.
 
+[Review Full Source Code Here](https://github.com/DrVicki/mern-project)
+
 ## What is the MERN Stack?
 
 The MERN stack is a web development framework made up of the stack of **MongoDB**, **Express.js**, **React.js**, and **Nodejs**.  
