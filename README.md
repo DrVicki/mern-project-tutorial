@@ -878,7 +878,7 @@ This is what the landing page of the record component will look like after we ad
 
 This is what the screen that lets you add an employee will look like.
 
-![](https://webimages.mongodb.com/_com_assets/cms/kobwz1sx81jn872d7-sample-create-record-landing-page.png.png?auto=format%2Ccompress)
+![](https://github.com/DrVicki/mern-project-tutorial/blob/main/images/create-record.png)
 
 ## Congratulations on building your first MERN application. 
 
